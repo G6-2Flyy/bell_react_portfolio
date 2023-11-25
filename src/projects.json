@@ -7,19 +7,19 @@
             "github": "https://github.com/G6-2Flyy/social-media-app"
         },
         {
-            "image": "/images/placeholder.jpg",
+            "image": "/images/placeholder2.jpg",
             "title": "Camp Finder",
             "live": "https://g6-2flyy.github.io/camp-finder/",
             "github": "https://github.com/G6-2Flyy/camp-finder"
         },
         {
-            "image": "/images/placeholder.jpg",
+            "image": "/images/placeholder3.jpg",
             "title": "Text Editor",
             "live": "https://bell-text-editor-bd3409a70b40.herokuapp.com",
             "github": "https://github.com/G6-2Flyy/bell_text_editor"
         },
         {
-            "image": "/images/placeholder.jpg",
+            "image": "/images/placeholder2.jpg",
             "title": "Tech Blog",
             "live": "https://bell-tech-blog-165e8c0e2419.herokuapp.com/",
             "github": "https://github.com/G6-2Flyy/bell_tech_blog"
@@ -31,7 +31,10 @@
             "github": "https://github.com/G6-2Flyy/bell_note_taker"
         },
         {
-            
+            "image": "/images/placeholder.jpg",
+            "title": "Work Day Scheduler",
+            "live": "https://g6-2flyy.github.io/work-day-scheduler/",
+            "github": "https://github.com/G6-2Flyy/work-day-scheduler"
         }
     ]
 }
