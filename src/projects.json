@@ -1,0 +1,37 @@
+{
+    "projects": [
+        {
+            "image": "/images/placeholder.jpg",
+            "title": "Social Media App",
+            "live": "https://quiet-spire-24074-96c577a8c013.herokuapp.com",
+            "github": "https://github.com/G6-2Flyy/social-media-app"
+        },
+        {
+            "image": "/images/placeholder.jpg",
+            "title": "Camp Finder",
+            "live": "https://g6-2flyy.github.io/camp-finder/",
+            "github": "https://github.com/G6-2Flyy/camp-finder"
+        },
+        {
+            "image": "/images/placeholder.jpg",
+            "title": "Text Editor",
+            "live": "https://bell-text-editor-bd3409a70b40.herokuapp.com",
+            "github": "https://github.com/G6-2Flyy/bell_text_editor"
+        },
+        {
+            "image": "/images/placeholder.jpg",
+            "title": "Tech Blog",
+            "live": "https://bell-tech-blog-165e8c0e2419.herokuapp.com/",
+            "github": "https://github.com/G6-2Flyy/bell_tech_blog"
+        },
+        {
+            "image": "/images/placeholder.jpg",
+            "title": "Note Taker",
+            "live": "https://bell-note-taker-3bc509f4e314.herokuapp.com",
+            "github": "https://github.com/G6-2Flyy/bell_note_taker"
+        },
+        {
+            
+        }
+    ]
+}
