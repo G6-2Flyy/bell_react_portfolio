@@ -1,5 +1,5 @@
 * {
-font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Tahoma, Geneva, Verdana, sans-serif
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #nav-container {
@@ -23,6 +23,7 @@ main {
   padding: 15px 1.25%;
   margin-top: 150px;
   margin-bottom: 100px;
+  background-color: lightgray;
 }
 
 footer {

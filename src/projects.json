@@ -1,37 +1,37 @@
 {
     "projects": [
         {
-            "image": "/images/placeholder.jpg",
+            "image": "/images/star_screenshot.png",
             "title": "Social Media App",
             "live": "https://quiet-spire-24074-96c577a8c013.herokuapp.com",
             "github": "https://github.com/G6-2Flyy/social-media-app"
         },
         {
-            "image": "/images/placeholder2.jpg",
+            "image": "/images/camp_finder.png",
             "title": "Camp Finder",
             "live": "https://g6-2flyy.github.io/camp-finder/",
             "github": "https://github.com/G6-2Flyy/camp-finder"
         },
         {
-            "image": "/images/placeholder3.jpg",
+            "image": "/images/text_editor_screenshot.png",
             "title": "Text Editor",
             "live": "https://bell-text-editor-bd3409a70b40.herokuapp.com",
             "github": "https://github.com/G6-2Flyy/bell_text_editor"
         },
         {
-            "image": "/images/placeholder2.jpg",
+            "image": "/images/tech_blog_screenshot.png",
             "title": "Tech Blog",
             "live": "https://bell-tech-blog-165e8c0e2419.herokuapp.com/",
             "github": "https://github.com/G6-2Flyy/bell_tech_blog"
         },
         {
-            "image": "/images/placeholder.jpg",
+            "image": "/images/bell_note_taker_screenshot.png",
             "title": "Note Taker",
             "live": "https://bell-note-taker-3bc509f4e314.herokuapp.com",
             "github": "https://github.com/G6-2Flyy/bell_note_taker"
         },
         {
-            "image": "/images/placeholder.jpg",
+            "image": "/images/work_day_scheduler.png",
             "title": "Work Day Scheduler",
             "live": "https://g6-2flyy.github.io/work-day-scheduler/",
             "github": "https://github.com/G6-2Flyy/work-day-scheduler"
