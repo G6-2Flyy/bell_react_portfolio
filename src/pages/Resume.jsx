@@ -2,7 +2,7 @@ export default function Resume() {
     return (
         <div>
             <h3>Resume</h3>
-            <a href="/resume/RBell_Resume.pdf" download="Raymond Bell's Resume">Download Resume</a>
+            <a href="/resume/rbell_resume.pdf" download="Raymond Bell's Resume">Download Resume</a>
             
             <h3>Front-end Proficiencies</h3>
             <ul>
