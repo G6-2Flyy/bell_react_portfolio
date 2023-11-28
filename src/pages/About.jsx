@@ -4,7 +4,24 @@ export default function About() {
             <h3>About me</h3>
             <p>
             <img src="/images/personal_pic.jpg" />
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores expedita voluptatem voluptatum dolorem hic! Soluta aliquid, cum magni voluptate eum sed qui doloribus dolor recusandae quis id fugiat quasi debitis illo! Accusantium cum numquam sunt, fugit eaque ut repellendus in porro? Praesentium dolor nesciunt, magnam laudantium maxime eveniet a explicabo, reprehenderit qui doloremque, necessitatibus doloribus inventore recusandae eius. Nesciunt aperiam, tempora blanditiis esse repellat illum temporibus sint deserunt minima accusantium incidunt laboriosam, officiis voluptate, sed nisi reprehenderit consequatur magni illo rem nobis! Iusto dolorum nam illo reiciendis praesentium aliquid consequatur libero voluptates quis eaque at, quam fugit itaque cupiditate odit id mollitia dolorem pariatur nesciunt officiis atque facilis ipsa! Iusto ipsam saepe amet sint? Alias, maxime saepe. Quibusdam sed tempora possimus non nihil consectetur et modi architecto ipsam saepe repellendus, voluptatem dignissimos earum, magnam corrupti ab quos recusandae illo quo deserunt dicta. Ex corporis eveniet inventore perferendis? Harum voluptatum tempore velit. Dignissimos neque impedit doloribus rerum provident aperiam, porro tenetur architecto iusto laboriosam distinctio! Voluptatem iusto temporibus excepturi natus voluptates necessitatibus ipsam facere distinctio, quaerat exercitationem, tempora pariatur. Dolore temporibus placeat praesentium, possimus, esse nisi, quo facilis culpa facere ea quidem itaque ratione animi? Odio, ipsa voluptas accusamus ipsam totam quas nisi molestiae officiis corrupti, culpa laboriosam quod cupiditate, doloremque minima magnam quae! Placeat ut, consectetur blanditiis tenetur consequatur exercitationem sed veritatis distinctio earum molestias ducimus delectus, hic dolorem deserunt, sapiente officiis ea labore asperiores animi quidem repellendus pariatur reprehenderit fugiat. Deserunt optio esse tempore at totam, ipsa porro qui quo neque cupiditate nihil. Laudantium at dicta autem laboriosam nulla repellendus animi ipsam quod aliquid deserunt, minus odit quia debitis saepe velit blanditiis eaque? Veritatis, placeat ad laboriosam quis fugiat id laudantium facere totam. Tempore nihil ducimus omnis dicta obcaecati accusantium accusamus, iure non tempora, repellat quibusdam cum voluptatem voluptates?
+            Without a doubt, coding is where it is at! My name is Raymond Bell.
+            I am a proud military veteran and native Texan who enjoys the
+            outdoors. <br />
+            I reside in the Dallas-Fort Worth Metroplex. My favorite outdoor
+            activities include fishing, hunting, golfing, and grilling. <br />
+            I could easily concatenate that list with hiking and camping.
+            Traveling also has a warm spot in my heart. I have lived in two
+            foreign countries<br />
+            and visited seven others, so I enjoy diversity and value
+            multiculturalism. However, learning is something that I treasure
+            more than any of these. <br />
+            Recently, I decided to plunge into technology in a way I had never
+            done before. I have worked in and with technology throughout my
+            20-plus-year career,<br />
+            but this is different. Now, I am enjoying the journey of learning
+            and applying code snippets to develop applications designed to
+            enhance personal,<br />
+            and business decision-making.  
             </p>
 
         </div>
