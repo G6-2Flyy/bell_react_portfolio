@@ -45,7 +45,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-Link to Netlify: https://main--charming-rolypoly-ca5b1a.netlify.app
+Link to Netlify: https://rbell-portfolio.netlify.app
 
 ![alt text](/public/images/landing_page.png)
 
