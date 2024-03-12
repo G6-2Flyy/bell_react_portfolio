@@ -36,5 +36,31 @@
             "live": "https://g6-2flyy.github.io/work-day-scheduler/",
             "github": "https://github.com/G6-2Flyy/work-day-scheduler"
         }
+    ],
+    "analytics": [
+        {
+            "image": "/images/ukraine_screenshot.png",
+            "title": "Russia's Invasion of Ukraine",
+            "live": "https://g6-2flyy.github.io/Invasion_Of_Ukraine/",
+            "github": "https://github.com/G6-2Flyy/Invasion_Of_Ukraine"
+        },
+        {
+            "image": "/images/spb_screenshot.png",
+            "title": "Silicon Prairie Bank",
+            "live": "https://rbell-silicon-praire-bank.onrender.com/",
+            "github": "https://github.com/G6-2Flyy/DS-Project-4-Group-2"
+        },
+        {
+            "image": "/images/weather_app_screenshot.png",
+            "title": "Weather Web Application",
+            "live": "https://g6-2flyy.github.io/Web-Visualization-Challenge",
+            "github": "https://github.com/G6-2Flyy/Web-Visualization-Challenge"
+        },
+        {
+            "image": "/images/airline_safety_screenshot.png",
+            "title": "Airline Safety",
+            "live": "https://public.tableau.com/app/profile/raymond.bell/viz/AirlineSafetyFeb2023/AirlineAnalysis",
+            "github": "https://github.com/G6-2Flyy/Data_Sci_2022/tree/main/18-Tableau/Tableau%20Challenge"
+        }  
     ]
 }
