@@ -61,6 +61,12 @@
             "title": "Airline Safety",
             "live": "https://public.tableau.com/app/profile/raymond.bell/viz/AirlineSafetyFeb2023/AirlineAnalysis",
             "github": "https://github.com/G6-2Flyy/Data_Sci_2022/tree/main/18-Tableau/Tableau%20Challenge"
+        },
+        {
+            "image": "/images/citibike_screenshot.png",
+            "title": "Citi Bike",
+            "live": "https://public.tableau.com/app/profile/raymond.bell/viz/CitiBikeOperatingReport/Story1",
+            "github": "https://github.com/G6-2Flyy/Data_Sci_2022/tree/main/18-Tableau/Tableau%20Challenge"
         }  
     ]
 }
