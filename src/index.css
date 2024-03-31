@@ -114,13 +114,51 @@ button {
   background-color: white !important;
 }
 
+.resume section {
+  background-color: white;
+  max-width: 1200px;
+  margin:auto;
+  padding: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.resume p, .resume ul li {
+  font-size: 20px;
+  margin-bottom: 0px;
+  line-height: 1.5;
+}
+
+.resume header {
+  text-align: center;
+}
+
 .resume h1{
 font-size: 50px;
 font-variant: small-caps;
 }
 
+.resume h3 {
+  font-variant: small-caps;
+  font-weight: 700;
+}
+
+.resume header p {
+  margin: 0px
+}
+
 .resume hr {
-  border: 3px solid gray;
+  border: 3px solid black;
+  opacity: 1;
+}
+
+.resume .space-between {
+  display:flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.resume .project-name {
+  font-weight: bold;
 }
 
 @media (max-width:820px) {
