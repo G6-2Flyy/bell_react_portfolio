@@ -161,11 +161,11 @@ export default function Resume() {
         <hr />
         <h3>Experience</h3>
         <h4 className="space-between">
-          Continuing Career Education <span>May 2020-Present</span>
+          CONTINUING CAREER EDUCATION <span>May 2020-Present</span>
         </h4>
-        <p className="space-between">
+        <h5 className="space-between">
           Full Stack Coding | Data Science | MBA <span>Dallas, TX</span>
-        </p>
+        </h5>
         <ul>
           <li>
             Completed two intensive programs focused on attaining technical
@@ -177,11 +177,11 @@ export default function Resume() {
           </li>
         </ul>
         <h4 className="space-between">
-          Amazon<span>Mar 2018-Apr 2020</span>
+          AMAZON<span>Mar 2018-Apr 2020</span>
         </h4>
-        <p className="space-between">
+        <h5 className="space-between">
           Analyst, E-Commerce <span>Farmers Branch, TX</span>
-        </p>
+        </h5>
         <ul>
           <li>
             Partnered with site leadership to apply critical thinking skills and
@@ -196,9 +196,9 @@ export default function Resume() {
         <h4 className="space-between">
           LEAR CORPORATION<span>Jul 2014-Aug 2015</span>
         </h4>
-        <p className="space-between">
+        <h5 className="space-between">
           Quality Manager, Automotive <span>Arlington, TX</span>
-        </p>
+        </h5>
         <ul>
           <li>
             Used diagnostic software for functional testing, calibration, and
@@ -213,9 +213,9 @@ export default function Resume() {
         <h4 className="space-between">
           KRAFT- HEINZ<span>Aug 2013-Jun 2014</span>
         </h4>
-        <p className="space-between">
+        <h5 className="space-between">
           Production Manager, Consumer Packaged Goods<span>Garland, TX</span>
-        </p>
+        </h5>
         <ul>
           <li>
             Consistently acknowledged for achieving safety, quality, and cost

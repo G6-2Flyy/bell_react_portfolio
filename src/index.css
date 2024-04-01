@@ -140,6 +140,7 @@ font-variant: small-caps;
 .resume h3 {
   font-variant: small-caps;
   font-weight: 700;
+  margin-bottom: .65rem;
 }
 
 .resume header p {
@@ -155,10 +156,21 @@ font-variant: small-caps;
   display:flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  font-weight: bold;
+  font-size: 21px;
 }
 
 .resume .project-name {
   font-weight: bold;
+  margin: 0;
+}
+
+.resume .project-bullets {
+margin-bottom: 1.3rem;
+}
+
+.resume h4 {
+  margin-bottom: .15 rem;
 }
 
 @media (max-width:820px) {
