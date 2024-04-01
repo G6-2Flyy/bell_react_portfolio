@@ -11,7 +11,7 @@ export default function Project({ proj }) {
         </p>
     </div>
 </div> */}
-      <div className="card" style={{width:'18rem'}}>
+      <div className="card project " >
         <img src={proj.image} className="card-img-top" alt="..." />
         <div className="card-body">
           <h5 className="card-title">{proj.title}</h5>

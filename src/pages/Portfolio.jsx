@@ -4,7 +4,7 @@ import data from "../projects.json";
 export default function Portfolio() {
     return (
         <div>
-            <h3>Web Dev Portfolio</h3>
+            {/* <h3>Web Dev Portfolio</h3> */}
             <div className="projects-container d-flex justify-content-between flex-wrap row-gap-3">
            {
             data.projects.map((proj)=>(<Project key={proj.title} proj={proj}/>))

@@ -61,15 +61,18 @@ color: darkslateblue !important;
 
 .project {
   width: 32.5%;
-  position: relative;
-  height: fit-content;
+  /* position: relative;
+  height: fit-content; */
+  background-color: darkgray;
+ 
 }
 
 .project img {
-  width: 100%;
+  /* width: 100%;
   height: auto;
   backface-visibility: hidden;
-  border: 4px solid black;
+  border: 4px solid black; */
+  height: 300px;
 }
 
 .project .links {
@@ -90,10 +93,12 @@ color: darkslateblue !important;
 opacity: 1;
 }
 
-.project .links a {
+.project a {
   font-size: 25px;
-  color: black;
-  margin: 15px;
+  color: white;
+  margin-right: 100px;
+  background-color: black;
+  padding: 5px 50px;
 }
 
 .contact-form {
