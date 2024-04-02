@@ -19,8 +19,11 @@ export default function Project({ proj }) {
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href={proj.live} className="btn btn-primary" target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-up-right-from-square"></i></a>
-          <a href={proj.github} className="btn btn-primary" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-square-github"></i></a>
+          <div className="links">
+          <a href={proj.live} className="btn" target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-up-right-from-square"></i></a>
+          <a href={proj.github} className="btn" target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-github"></i></a>
+          </div>
+          
         </div>
       </div>
     </>
