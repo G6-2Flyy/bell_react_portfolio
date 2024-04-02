@@ -5,7 +5,7 @@ export default function Resume() {
       <section>
         <header>
         <h1>Raymond Bell</h1>
-        <p>Dallas, TX 75208 | Phone: xxx.xxx.xxxx | Email: rcarlb2@gmail.com</p>
+        <p>Dallas, TX 75208 | Phone: xxx.xxx.xxxx | Email: somebody@gmail.com</p>
         <p>
           GitHub:{" "}
           <a

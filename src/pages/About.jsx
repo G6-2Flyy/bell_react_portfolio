@@ -1,7 +1,7 @@
 export default function About() {
     return (
         <div className="about-page">
-            <h3>About me</h3>
+            {/* <h3>About me</h3> */}
             <p>
             <img src="/images/bell-removebg.png" />
             Without a doubt, coding is where it is at! My name is Raymond Bell.
