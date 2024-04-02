@@ -64,7 +64,13 @@ color: darkslateblue !important;
   /* position: relative;
   height: fit-content; */
   background-color: darkgray;
- 
+ transition: all .05s ease-in;
+}
+
+.project:hover {
+/* border: 5px solid slateblue; */
+box-shadow: 5px 5px 10px lightslategray;
+transform:scale(1.01,1.01)
 }
 
 .project img {
