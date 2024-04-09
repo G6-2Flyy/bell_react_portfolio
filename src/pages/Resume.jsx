@@ -21,8 +21,8 @@ export default function Resume() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            rbell-portfolio.netlify.app
-          </a>
+            rbell-portfolio.netlify.app  
+          </a>{" "}
           | LinkedIn:{" "}
           <a
             href="https://www.linkedin.com/in/raymond-bell-g6"
