@@ -29,8 +29,8 @@ export default function Contact() {
     }
 
     return (
-        <div>
-            <h3>Contact</h3>
+        <div className='contact_page'>
+            <h3>Contact Me</h3>
             <Form className='contact-form' onSubmit={handleSubmit}>
                 <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
                     <Form.Label>Name</Form.Label>
@@ -47,6 +47,7 @@ export default function Contact() {
                {error && <p>{error}</p>}
                 <button type='submit'>Submit</button>
             </Form>
+            <h3>Email: rcarlb2@gmail.com</h3>
         </div>
     )
 }
