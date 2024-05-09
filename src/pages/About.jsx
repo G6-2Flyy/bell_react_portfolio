@@ -2,8 +2,8 @@ export default function About() {
     return (
         <div className="about-page">
             {/* <h3>About me</h3> */}
+            <img src="/images/rb_portfolio_pic.jpg" />
             <p>
-            <img src="/images/bell-removebg.png" />
             Without a doubt, coding is where it is at! My name is Raymond Bell.
             I am a proud military veteran and native Texan who enjoys the
             outdoors. <br />

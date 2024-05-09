@@ -286,7 +286,10 @@ export default function Resume() {
           Bachelor of Science, Accounting | The University of Tampa | Tampa, FL
         </p>
       </section>
+      <div className="resume_button">
       <a href="/resume/rbell_resume.pdf" download="Raymond Bell's Resume">Download Resume</a>
+      </div>
+      
     </div>
   );
 }
